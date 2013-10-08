@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\resource_managed\main\public\javascripts\index.js,C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\classes\public\javascripts\index.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\resource_managed\main\public\javascripts\index.min.js,C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\classes\public\javascripts\index.min.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\gesse.silva\git\sussu_guia\conf\application.conf,C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\gesse.silva\git\sussu_guia\conf\routes,C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\classes\routes)[0m

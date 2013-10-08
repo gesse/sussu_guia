@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\classes\models\Bar.class: stamp changed from lastModified(1381236010251) to lastModified(1381258385606)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\classes\models\Bar.class)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(C:\Users\gesse.silva\git\sussu_guia\test\BarServiceTest.java, C:\Users\gesse.silva\git\sussu_guia\test\BarTest.java, C:\Users\gesse.silva\git\sussu_guia\test\ApplicationTest.java)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\gesse.silva\git\sussu_guia\test\BarServiceTest.java, C:\Users\gesse.silva\git\sussu_guia\test\BarTest.java, C:\Users\gesse.silva\git\sussu_guia\test\ApplicationTest.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Java sources to C:\Users\gesse.silva\git\sussu_guia\target\scala-2.10\test-classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javac directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javac.Main not found with appropriate method signature; forking javac instead[0m
+[0m[[0mdebug[0m] [0mForking javac: javac @C:/Users/GESSE~1.SIL/AppData/Local/Temp/sbt_a119a965/argfile[0m
+[0m[[33mwarn[0m] [0mNote: C:\Users\gesse.silva\git\sussu_guia\test\ApplicationTest.java uses or overrides a deprecated API.[0m
+[0m[[33mwarn[0m] [0mNote: Recompile with -Xlint:deprecation for details.[0m
+[0m[[0mdebug[0m] [0mjavac returned exit code: 0[0m
+[0m[[0mdebug[0m] [0mJava compilation took 1.142359078 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.125249434 s[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(C:\Users\gesse.silva\git\sussu_guia\test\BarTest.java, C:\Users\gesse.silva\git\sussu_guia\test\TestDataConfig.java, C:\Users\gesse.silva\git\sussu_guia\test\BarServiceTest.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m

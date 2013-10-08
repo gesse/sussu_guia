@@ -1,0 +1,42 @@
+[0m[[0mdebug[0m] [0mFramework implementation 'org.specs2.runner.Specs2Framework' not present.[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mgetBars[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mgetBars[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mcreateBar[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mcreateBar[0m finished[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 2 total, 2.903s[0m[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mBarTest[0m.[36msetBarName[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mBarTest[0m.[36msetBarName[0m finished[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 0.112s[0m[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mcallIndex[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mcallIndex[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mindexTemplate[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mindexTemplate[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mrealBarsRequest[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mrealBarsRequest[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mcallAddBar[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mcallAddBar[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mcallListBars[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mcallListBars[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mbarsRoute[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mApplicationTest[0m.[36mbarsRoute[0m finished[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 6 total, 3.996s[0m[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mgetBars[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mgetBars[0m finished[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mcreateBar[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mBarServiceTest[0m.[36mcreateBar[0m finished[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 2 total, 0.17s[0m[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mBarTest[0m.[36msetBarName[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mBarTest[0m.[36msetBarName[0m finished[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 0.119s[0m[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 9, Failed 0, Errors 0, Passed 9[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	BarTest[0m
+[0m[[0mdebug[0m] [0m	ApplicationTest[0m
+[0m[[0mdebug[0m] [0m	BarServiceTest[0m

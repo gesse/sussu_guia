@@ -1,0 +1,42 @@
+[0m[[0minfo[0m] [0mBarServiceTest[0m
+[0m[[0minfo[0m] [0m+ getBars[0m
+[0m[[0minfo[0m] [0m+ createBar[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for test BarServiceTest[0m
+[0m[[0minfo[0m] [0mFinished in 0.003 seconds[0m
+[0m[[0minfo[0m] [0m2 tests, 0 failures, 0 errors[0m
+[0m[[0minfo[0m] [0mBarTest[0m
+[0m[[0minfo[0m] [0m+ setBarName[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for test BarTest[0m
+[0m[[0minfo[0m] [0mFinished in 0.006 seconds[0m
+[0m[[0minfo[0m] [0m1 tests, 0 failures, 0 errors[0m
+[0m[[0minfo[0m] [0mApplicationTest[0m
+[0m[[0minfo[0m] [0m+ callIndex[0m
+[0m[[0minfo[0m] [0m+ indexTemplate[0m
+[0m[[0minfo[0m] [0m+ realBarsRequest[0m
+[0m[[0minfo[0m] [0m+ callAddBar[0m
+[0m[[0minfo[0m] [0m+ callListBars[0m
+[0m[[0minfo[0m] [0m+ barsRoute[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for test ApplicationTest[0m
+[0m[[0minfo[0m] [0mFinished in 0.003 seconds[0m
+[0m[[0minfo[0m] [0m6 tests, 0 failures, 0 errors[0m
+[0m[[0minfo[0m] [0mBarServiceTest[0m
+[0m[[0minfo[0m] [0m+ getBars[0m
+[0m[[0minfo[0m] [0m+ createBar[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for test BarServiceTest[0m
+[0m[[0minfo[0m] [0mFinished in 0.003 seconds[0m
+[0m[[0minfo[0m] [0m2 tests, 0 failures, 0 errors[0m
+[0m[[0minfo[0m] [0mBarTest[0m
+[0m[[0minfo[0m] [0m+ setBarName[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for test BarTest[0m
+[0m[[0minfo[0m] [0mFinished in 0.002 seconds[0m
+[0m[[0minfo[0m] [0m1 tests, 0 failures, 0 errors[0m
