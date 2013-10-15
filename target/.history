@@ -1,1 +1,132 @@
 test
+eclipse
+test
+compile -Xlint
+clean
+compile -Xlint
+compile
+exit
+compile
+test
+run
+play
+compile
+test
+compile
+test
+play
+run
+clean
+exit
+load
+compile
+test
+run
+exit
+compile
+run
+exit
+compile
+run
+clean
+compile
+run
+compile
+run
+compile
+run
+exit
+clean
+compile
+test
+clean
+compile
+test
+run
+clean
+exit
+compile
+run
+clean
+exit
+compile
+test
+run
+clean
+exit
+compile
+run
+clean
+exit
+compile
+test
+compile
+clean
+compile
+run
+compile
+clean
+compile
+clean
+compile
+run
+clean -- help
+clean -help
+play clean all
+play clean
+clean -f
+clean -h
+run 12345
+clean up
+clean
+compile
+test
+las compile:managedResources
+last compile:managedResources
+test
+clean
+compile
+test
+last compile:managedResource
+last compile:managedResources
+test
+exit
+compile
+exit
+compile
+exit
+compile
+test
+exit
+compile
+exit
+compile
+test
+compile
+exit
+compile
+exit
+reload
+clean
+compile
+eclipse
+compile
+reload
+compile
+exit
+compile
+cls
+compile
+reload
+compile
+reload
+compile
+play clean-all
+clean-all
+play
+clean-all
+play eclipse
+eclipse
+ls
+exit
+compile

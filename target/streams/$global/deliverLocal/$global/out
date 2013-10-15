@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: sussu_guia#sussu_guia_2.10;1.0-SNAPSHOT :: 1.0-SNAPSHOT :: integration :: Mon Oct 14 23:55:11 BRT 2013[0m
+[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Mon Oct 14 23:55:11 BRT 2013 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to C:\Users\Gesse\git\sussu_guia\target\scala-2.10\ivy-1.0-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (89ms)[0m

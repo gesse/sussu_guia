@@ -1,16 +1,30 @@
+import static org.fest.assertions.Assertions.assertThat;
+import static play.mvc.Http.Status.OK;
+import static play.mvc.Http.Status.SEE_OTHER;
+import static play.test.Helpers.GET;
+import static play.test.Helpers.callAction;
+import static play.test.Helpers.charset;
+import static play.test.Helpers.contentAsString;
+import static play.test.Helpers.contentType;
+import static play.test.Helpers.fakeApplication;
+import static play.test.Helpers.fakeRequest;
+import static play.test.Helpers.route;
+import static play.test.Helpers.running;
+import static play.test.Helpers.status;
+import static play.test.Helpers.testServer;
+
+import java.util.HashMap;
+import java.util.Map;
+
 import models.Bar;
+
 import org.junit.Test;
+
 import play.data.Form;
 import play.libs.WS;
 import play.mvc.Content;
 import play.mvc.Result;
 import play.test.FakeRequest;
-
-import java.util.HashMap;
-import java.util.Map;
-
-import static org.fest.assertions.Assertions.assertThat;
-import static play.test.Helpers.*;
 
 // todo: not using the right spring context when using fakeApplication()
 public class ApplicationTest {
@@ -84,7 +98,8 @@ public class ApplicationTest {
     @Test
     public void realBarsRequest() {
         running(testServer(3333), new Runnable() {
-            public void run() {
+            @SuppressWarnings("deprecation")
+			public void run() {
                 assertThat(WS.url("http://localhost:3333/bars").get().get().getStatus()).isEqualTo(OK);
             }
         });
